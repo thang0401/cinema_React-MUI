@@ -1,0 +1,16 @@
+.css-126nd9x-MuiPaper-root {
+    min-width: 725px;
+    max-width: 100%;
+    align-items: center;
+}
+/* .css-sghohy-MuiButtonBase-root-MuiButton-root {
+    margin: 5px;
+    background-color: #EFE1CE;
+} */
+.css-sghohy-MuiButtonBase-root-MuiButton-root { 
+    min-width: 10px;
+    max-width: 20px;
+    height: 20;
+    margin: 8px;
+    background-color: #EFE1CE;
+}
